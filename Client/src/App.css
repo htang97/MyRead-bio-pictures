@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+.btn-primary {
+  background-color: #6baeec;
+  border-width: 0;
+  margin-left: 0.5rem;
+  width: fit-content !important;
+}
+
+.btn-primary:hover {
+  background-color: #437eb6;
+}
+.btn-primary:focus {
+  background-color: #437eb6;
+}
+
+.btn-primary:active {
+  background-color: #437eb6;
+}
+.btn-secondary {
+  background-color: rgba(255,0,0,0);
+  border-width: 2px;
+  border-color: #6baeec;
+  color: black;
+  width: fit-content !important;
+}
+
+.btn-secondary:hover{
+  background-color: #437eb6;
+  border-color: #437eb6;
+  border-width: 2px;
+}
+.btn-secondary:active {
+  background-color: #6baeec;
+  border-color: #437eb6;
+  border-width: 2px;
+}
+.btn-secondary:focus {
+  background-color: #6baeec;
+  border-color: #437eb6;
+  border-width: 2px;
+}
+
+.badge {
+  background-color: #6baeec !important;
+}

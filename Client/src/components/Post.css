@@ -1,0 +1,35 @@
+
+
+.post-link{
+    text-decoration: none;
+    color: black;
+
+}
+.post-link:hover{
+    color: black;
+}
+
+.card:hover{
+    transform:scale(1.05);
+}
+
+.bottom {
+    position: absolute;
+    bottom: 0;
+    right:1.5rem;
+ }
+
+.custom-bage{
+    background-color: #437eb6 !important;
+    visibility: hidden;
+}
+
+.custom-card h3
+{
+    font-weight: bold;
+    color: grey;
+}
+
+/* div{
+    font-family: 'Josefin Sans', sans-serif;
+} */
